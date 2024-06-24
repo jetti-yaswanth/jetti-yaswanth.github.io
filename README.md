@@ -1,5 +1,5 @@
 # Engineer
-#### Technical Skills: Research & Development, System-level Integration, Solving Problems, ML, Data Structures and Algorithms, and Radio Frequency, DSP, ADAS and AD, and Data Analysis
+#### Technical Skills: Research & Development, System-level Integration, Solving Problems, ML and AI, Data Structures and Algorithms, Radio Frequency, DSP, ADAS and AD, and Data Analysis
 
 ## Education
 - Master's, Telecommunication Engineering | National Sun Yat-sen University, Taiwan (_January 2023_)
@@ -14,8 +14,26 @@
 -  Responding promptly to customer inquiries and concerns, addressing their needs effectively and efficiently.
 -  Collaborating with cross-functional teams to diagnose and resolve complex technical issues in a timely manner.
 
-**Research Assistant @ i-Wic Laborartory (_March 2021 - January 2023_)**
+**Research Assistant @ i-Wic Laborartory, NSYSU, Taiwan (_March 2021 - January 2023_)**
 - Specialized in the realms of 5G, Beyond 5G (B5G), and the upcoming 6G technologies within the wireless communication domain.
 - The primary research objective revolves around mitigating carbon footprints by reducing transmit power while maintaining unchanged Quality of Service (QoS).
 - Engaged with cutting-edge wireless communication technologies, particularly focusing on Reconfigurable Intelligent Surfaces (RIS), including Passive RIS, Active RIS, and STAR-RIS.
 ##### Reseach Areas/Skills: 5G and B5G, 6G, Array Signal Processing, Optimization Algorithms, Digital Signal Process, Advanced Mathematics, Wireless Communications Systems, Analytical Skills, Data Analysis, MATLAB, Python (Programming Language), and MIMO
+
+**Teaching Assistant @ Institute of Communication Engineering, NSYSU, Taiwan| ADVANCED MATHEMATICS IN COMMUNICATIONS ENGINEERING (_September 2022 - January 2023 _)**
+- Provide a variety of resources for use in educational activities.
+- Planning lessons in accordance with the syllabus.
+- Participated in team meetings 2 times per month to plan for and deliver collaborative teaching services.
+- Helping professors with preparing lectures and calculating student grades.
+- Organizing classroom events and activities for students.
+
+**Teaching Assistant @ Institute of Communication Engineering, NSYSU, Taiwan| Digital Communications (_February 2022 - June 2022_)**
+- As a teaching assistant, I have the ability to see where students need support, enabling me to reteach the ideas in a way the students can understand.
+- I also communicate well with lead teachers and with other teaching assistants, to support a team atmosphere.
+
+**Research Intern @ Whetron Electronics Co., Ltd., Taiwan(_July 2022 - August 2022_)**
+- As a teaching assistant, I have the ability to see where students need support, enabling me to reteach the ideas in a way the students can understand.
+- I also communicate well with lead teachers and with other teaching assistants, to support a team atmosphere.
+
+**Intern @ Bharat Heavy Electricals Ltd., Hyderabad, India | STUDY OF PLC IN CNC MACHINES (_May 2019 - June 2019_)**
+- Responsible to learn, how industrial computers are used to control different electro-mechanical processes for use in manufacturing plants or other automation environments.
