@@ -44,6 +44,7 @@
 - [Energy-efficient beamforming design for RIS-aided MIMO downlink communication with SWIPT](https://doi.org/10.1109/TGCN.2023.3273031)
 - [Towards Green Communication: Power-Efficient Beamforming for STAR-RIS-Aided SWIPT](https://doi.org/10.1109/TGCN.2024.3370555)
 - [A pricing-based approach for energy-efficiency maximization in RIS-aided multi-user MIMO SWIPT-enabled wireless networks](https://doi.org/10.1109/ACCESS.2022.3158486)
+  
 ***Conferences***
 - [Power-Efficient STAR-RIS Aided MIMO-SWIPT Towards 6G Green Communications Under Channel Estimation Error](https://doi.org/10.1109/GLOBECOM54140.2023.10437454)
 - [Power Efficient Robust Beamforming Design for Active RIS-Aided MU-MIMO SWIPT Systems](https://doi.org/10.1109/ICC45041.2023.10278844)
