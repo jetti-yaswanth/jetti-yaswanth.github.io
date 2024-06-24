@@ -40,7 +40,7 @@
 
 ## IEEE Publications
 ***Journals***
-- [Publication](https://doi.org/10.1109/TWC.2023.3321959)
-- [Publication](https://doi.org/10.1109/TGCN.2023.3273031)
-- [Publication](https://doi.org/10.1109/TGCN.2024.3370555)
+- [Robust Beamforming Design for Active-RIS Aided MIMO SWIPT Communication System: A Power Minimization Approach](https://doi.org/10.1109/TWC.2023.3321959)
+- [Energy-efficient beamforming design for RIS-aided MIMO downlink communication with SWIPT](https://doi.org/10.1109/TGCN.2023.3273031)
+- [Towards Green Communication: Power-Efficient Beamforming for STAR-RIS-Aided SWIPT](https://doi.org/10.1109/TGCN.2024.3370555)
 ***Conferences***
