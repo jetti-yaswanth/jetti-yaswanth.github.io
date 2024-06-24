@@ -1,1 +1,5 @@
-
+title: Jetti Yaswanth
+#logo: \add path
+#description: text below image
+show_downloads: True
+theme: jekyll-theme-minimal
