@@ -37,3 +37,8 @@
 
 **Intern @ Bharat Heavy Electricals Ltd., Hyderabad, India | STUDY OF PLC IN CNC MACHINES (_May 2019 - June 2019_)**
 - Responsible to learn, how industrial computers are used to control different electro-mechanical processes for use in manufacturing plants or other automation environments.
+
+## IEEE Publications
+[publication](https://doi.org/10.1109/TWC.2023.3321959)
+[publication](https://doi.org/10.1109/TGCN.2023.3273031)
+[publication](https://doi.org/10.1109/TGCN.2024.3370555)
