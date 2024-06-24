@@ -39,6 +39,8 @@
 - Responsible to learn, how industrial computers are used to control different electro-mechanical processes for use in manufacturing plants or other automation environments.
 
 ## IEEE Publications
-[publication](https://doi.org/10.1109/TWC.2023.3321959)
-[publication](https://doi.org/10.1109/TGCN.2023.3273031)
-[publication](https://doi.org/10.1109/TGCN.2024.3370555)
+### Journals
+- [publication](https://doi.org/10.1109/TWC.2023.3321959)
+- [publication](https://doi.org/10.1109/TGCN.2023.3273031)
+- [publication](https://doi.org/10.1109/TGCN.2024.3370555)
+### Conferences
