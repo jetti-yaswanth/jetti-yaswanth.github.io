@@ -2,8 +2,8 @@
 #### Technical Skills: Research & Development, System-level Integration, Solving Problems, ML, Data Structures and Algorithms, and Radio Frequency, DSP, ADAS and AD, and Data Analysis
 
 ## Education
-- Master's, Telecommunication Engineering | National Sun Yat-sen University, Taiwan (_January 2023_)
-- B.Tech,  Electronics and Communication Engineering | Swarnandhra College of Engineering and Technology, India (_September, 2020_)
+- Master's, Telecommunication Engineering | NSYSU, Taiwan (_January 2023_)
+- B.Tech,  ECE | Swarnandhra College of Engineering and Technology, India (_September, 2020_)
 - High School, Science| Sri Chaitanaya junior college, India (Mar, 2016)
 
 ## Work Experinece
