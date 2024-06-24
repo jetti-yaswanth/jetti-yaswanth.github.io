@@ -1,12 +1,12 @@
 title: Jetti Yaswanth
 #logo: \add path
 email: jetti.yaswanth18@gmail.com
-description: 
+description: Passionate about leveraging cutting-edge technology to revolutionize human thought processes.
 show_downloads: True
 twitter_username: jekyllrb
 github_username:  jekyll
 google Scholor: "https://scholar.google.com/citations?user=wFbVtPMAAAAJ&hl=en"
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 # Build settings
 #theme: minima
