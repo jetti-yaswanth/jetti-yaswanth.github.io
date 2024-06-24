@@ -3,12 +3,15 @@ title: Jetti Yaswanth
 email: jetti.yaswanth18@gmail.com
 description: 
 show_downloads: True
+twitter_username: jekyllrb
+github_username:  jekyll
+google Scholor: "https://scholar.google.com/citations?user=wFbVtPMAAAAJ&hl=en"
 #theme: jekyll-theme-minimal
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+# - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
